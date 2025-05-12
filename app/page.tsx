@@ -15,7 +15,7 @@ export default function Home() {
             className="flex items-center gap-2 font-bold text-xl text-amber-500 transition-transform hover:scale-105"
           >
             <Scissors className="h-6 w-6" />
-            <span>THE BBARBERR</span>
+            <span>THE BARBER</span>
           </Link>
 
           {/* Menu Desktop */}

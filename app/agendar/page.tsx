@@ -69,14 +69,6 @@ export default function AgendarPage() {
       image: "/placeholder.svg?height=150&width=250",
     },
     {
-      id: "degradê",
-      name: "Degradê",
-      price: "R$ 50,00",
-      duration: "35 min",
-      description: "Degradê perfeito com transições suaves e precisas.",
-      image: "/placeholder.svg?height=150&width=250",
-    },
-    {
       id: "platinado",
       name: "Platinado",
       price: "R$ 80,00",
